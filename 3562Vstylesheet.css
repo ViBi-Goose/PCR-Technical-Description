@@ -1,0 +1,67 @@
+header {
+    background-color: maroon;
+    color: white;
+    border: 3px solid lightgray;
+    padding: 3px;
+    font-family: sans-serif;
+    font-size: 20pt;
+}
+nav {
+    background-color: lightgray;
+    color: black;
+    font-family: sans-serif;
+    font-size: 10pt
+}
+blockquote {
+    border: 3px solid lightgray;
+    padding: 3px;
+    font-family: sans-serif;
+    font-size: 12pt;
+}
+figure {
+    border: 1px solid lightgray;
+    padding: 3px; 
+    font-size: 12pt;
+    text-align: center;
+}
+h1 {
+    background-color: maroon;
+    color: #fc3;
+    border: 3px solid lightgray;
+    padding: 3px;
+    margin: 2px;
+    font-family: sans-serif;
+    font-size: 18pt
+}
+h2 {
+    background-color: #fc3;
+    color: maroon;
+    border: 2px solid lightgray;
+    padding: 2px;
+    margin: 2px;
+    font-family: sans-serif;
+    font-size: 16pt;
+}
+i, strong, em {
+    background-color: lemonchiffon;
+    font-family: sans-serif;
+}
+
+cite {
+    font-family: sans-serif;
+    font-size: 10px;
+}
+main { 
+    font-family: sans-serif;
+    font-size: 12pt;
+}
+footer {
+    background-color: lightgray;
+    color: black;
+    font-size: 10pt;
+    padding: 3px;
+    margin: 3px;
+}
+figure img {
+  width: 50%;
+}
