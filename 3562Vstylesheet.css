@@ -4,18 +4,19 @@ header {
     border: 3px solid lightgray;
     padding: 3px;
     font-family: sans-serif;
-    font-size: 20pt;
+    font-size: 35pt;
+}
 }
 blockquote {
     border: 3px solid lightgray;
     padding: 3px;
     font-family: sans-serif;
-    font-size: 12pt;
+    font-size: 14pt;
 }
 figure {
     border: 1px solid lightgray;
     padding: 3px; 
-    font-size: 12pt;
+    font-size: 14pt;
     text-align: center;
 }
 h1 {
@@ -25,7 +26,7 @@ h1 {
     padding: 3px;
     margin: 2px;
     font-family: sans-serif;
-    font-size: 18pt
+    font-size: 24pt
 }
 h2 {
     background-color: #fc3;
@@ -34,7 +35,7 @@ h2 {
     padding: 2px;
     margin: 2px;
     font-family: sans-serif;
-    font-size: 16pt;
+    font-size: 18pt;
 }
 i, strong, em {
     background-color: lemonchiffon;
@@ -47,7 +48,7 @@ cite {
 }
 main { 
     font-family: sans-serif;
-    font-size: 12pt;
+    font-size: 14pt;
 }
 footer {
     background-color: lightgray;
@@ -55,8 +56,4 @@ footer {
     font-size: 10pt;
     padding: 3px;
     margin: 3px;
-}
-figure img {
-  width: 50%;
-
 }
